@@ -1,0 +1,11 @@
+<!DocType html>
+<html lang="en">
+<head>
+ <basefont color="red" size="5"/>
+</head>
+<body>
+  <h1>this is a test!</h1>
+  <p>the basefont is only used in IE browser</p>
+  <p>this is a test!</p>
+</body>
+</html>
